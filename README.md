@@ -9,5 +9,3 @@ Assunto: LivrosGratuitos - <Título do Livro>
 Mensagem: --Sua mensagem--
 
 Anexo: --Livro--
-
-Powered by Hat Security.
